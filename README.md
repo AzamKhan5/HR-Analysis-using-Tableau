@@ -21,6 +21,7 @@ Allows quick filtering of employees based on the first letter of their name.
 #### 9. Leave Balance Analysis
 Analyzes the leave balances and usage trends of employees.
 
+![Image](https://github.com/user-attachments/assets/74c1c66c-1f93-429c-ba76-e343f422b556)
 
 ## Technologies Used:
 Tableau for Data Visualization
